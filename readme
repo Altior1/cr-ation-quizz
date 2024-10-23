@@ -1,0 +1,5 @@
+projet de génération de quizz. 
+L'application présente un champ pour s'identifier, une fois connecté, l'utilisateur a accès à ses quizzs et peut ajouter des questions, 
+ou créer un nouveau quizz, ou le supprimer. Il peut passer la confidentialité de ses quizz pour les partager avec la communauté.
+Bien sûr, ceci est un projet d'entrainement, aussi le présent fichier contient le but souhaité, mais le projet peut évoluer.
+
